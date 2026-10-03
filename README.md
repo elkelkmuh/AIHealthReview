@@ -18,6 +18,7 @@ Literature searches were conducted using:
 - Web of Science Core Collection
 - Scopus
 - PubMed
+  
 Database-specific search records and exported results are provided in
 the corresponding section folders.
 Search Strategy
